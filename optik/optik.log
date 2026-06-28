@@ -1,0 +1,13 @@
+2026-06-28T08:23:16.322254 [LOW] Isolated sudo_failed from local, likely a typo
+2026-06-28T08:23:17.822427 [LOW] Isolated ssh_failed from 127.0.0.1, likely a typo
+2026-06-28T08:23:21.072698 [LOW] Isolated ssh_failed from 127.0.0.1, likely a typo
+2026-06-28T08:23:23.322194 [HIGH] Brute force pattern — 3 ssh_failed attempts from 127.0.0.1 within 60s
+2026-06-28T08:28:08.572657 [LOW] Isolated sudo_failed from local, likely a typo
+2026-06-28T08:30:15.572489 [LOW] Isolated sudo_failed from local, likely a typo
+2026-06-28T08:31:52.322546 [LOW] Isolated sudo_failed from local, likely a typo
+2026-06-28T08:32:02.572494 [LOW] Isolated sudo_failed from local, likely a typo
+2026-06-28T08:32:12.072538 [HIGH] Brute force pattern — 3 sudo_failed attempts from local within 60s
+2026-06-28T20:23:53.347000 [LOW] Isolated sudo_failed from local, likely a typo
+2026-06-28T20:24:02.346587 [LOW] Isolated sudo_failed from local, likely a typo
+2026-06-28T20:24:10.846844 [HIGH] Brute force pattern — 3 sudo_failed attempts from local within 60s
+2026-06-28T21:11:24.846349 [INFO] Normal sudo_success from known source local
